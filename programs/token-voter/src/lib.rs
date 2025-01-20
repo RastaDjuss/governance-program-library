@@ -13,7 +13,7 @@ pub mod tools;
 #[macro_use]
 extern crate static_assertions;
 
-declare_id!("3JhBg9bSPcfWGFa3t8LH7ooVtrjm45yCkHpxYXMXstUM");
+declare_id!("HA99cuBQCCzZu1zuHN2qBxo2FBo1cxNLwKkdt6Prhy8v");
 
 #[program]
 pub mod token_voter {
