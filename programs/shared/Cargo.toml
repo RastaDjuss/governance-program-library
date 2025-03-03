@@ -23,6 +23,6 @@ enum_dispatch = "0.3.8"
 spl-governance = { version = "4.0", features = ["no-entrypoint"] }
 spl-governance-tools =  "0.1.4"
 spl-governance-addin-api = "0.1.4"
-spl-token = { version = "4.0.0", features = [ "no-entrypoint" ] }
+spl-token = { version = "7.0.0", features = [ "no-entrypoint" ] }
 
 [dev-dependencies]
