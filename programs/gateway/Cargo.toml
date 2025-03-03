@@ -31,8 +31,7 @@ spl-governance = { version = "4.0", features = ["no-entrypoint"] }
 spl-governance-tools=  "0.1.4"
 spl-governance-addin-api = "0.1.4"
 spl-token = { version = "5.0.1", features = [ "no-entrypoint" ] }
-solana-pubkey = "=2.1.13"
-zeroize = "1.3"
+
 
 
 
